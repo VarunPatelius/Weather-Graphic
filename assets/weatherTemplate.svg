@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+	<desc>Created with Fabric.js 4.2.0</desc>
+	<defs></defs>
+	<g transform="matrix(1 0 0 1 540 540)" id="dc68b50d-f839-450a-bb75-df921b700138">
+		<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+	</g>
+	<g transform="matrix(0 0 0 0 0 0)" id="fa380acd-efaa-447f-ba81-45d73663938d"></g>
+	<g transform="matrix(13.38 0 0 11.7 540 199.8)">
+		<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(101,101,101); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-50, -50)" d="M 90.375 67.209 L 9.625 67.209 L 9.625 32.792 L 90.375 32.792 L 90.375 67.209 z M 11.625 65.209 L 88.375 65.209 L 88.375 34.792 L 11.625 34.792 L 11.625 65.209 z" stroke-linecap="round" />
+	</g>
+	<g transform="matrix(1.5 0 0 1.5 298.88 170.63)" style="" id="81a3679c-65ea-41f1-a22b-2b6edcf73d87">
+		<text xml:space="preserve" font-family="Raleway" font-size="105" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-173.88" y="32.98">TEMP0</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1 0 0 1 297.97 284.55)" style="" id="ceeda514-3fad-4865-b1d2-498e5bb087fb">
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-82.82" y="12.57">Dover, FL</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1 0 0 1 814.26 294.97)" style="" id="baaf13ab-295d-444a-beb2-5744297a417d">
+		<text xml:space="preserve" font-family="Lato" font-size="31" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-132.99" y="-9.53">Humidity: HUMID0</tspan>
+			<tspan x="-101.71" y="29">DESCRIPTION</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1 0 0 1 540 651.43)" style="" id="f983a9b8-7bf6-4d67-8330-96d0ec783ec5">
+		<text xml:space="preserve" font-family="Lato" font-size="22" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-32.76" y="-5.52">TIME2</tspan>
+			<tspan x="-28.6" y="19.34">POP2</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1 0 0 1 867.43 651.43)" style="">
+		<text xml:space="preserve" font-family="Lato" font-size="22" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-32.76" y="-5.52">TIME3</tspan>
+			<tspan x="-28.6" y="19.34">POP3</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1 0 0 1 216.01 651.43)" style="">
+		<text xml:space="preserve" font-family="Lato" font-size="22" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-32.76" y="-5.52">TIME1</tspan>
+			<tspan x="-28.6" y="19.34">POP1</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1 0 0 1 540 917.49)" style="">
+		<text xml:space="preserve" font-family="Lato" font-size="22" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-32.76" y="-5.52">TIME5</tspan>
+			<tspan x="-28.6" y="19.34">POP5</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1 0 0 1 865.03 915.41)" style="">
+		<text xml:space="preserve" font-family="Lato" font-size="22" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-32.76" y="-5.52">TIME6</tspan>
+			<tspan x="-28.6" y="19.34">POP6</tspan>
+		</text>
+	</g>
+	<g transform="matrix(1 0 0 1 215.7 917.49)" style="">
+		<text xml:space="preserve" font-family="Lato" font-size="22" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-32.76" y="-5.52">TIME4</tspan>
+			<tspan x="-28.6" y="19.34">POP4</tspan>
+		</text>
+	</g>
+	<g transform="matrix(0.66 0 0 0.66 230.95 492.28)" style="" id="aac3684c-dff4-4cb7-a0e7-b9e2e6279a62">
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-117.52" y="25.13">TEMP1</tspan>
+		</text>
+	</g>
+	<g transform="matrix(0.66 0 0 0.66 557.03 737.43)" style="">
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-120.28" y="25.13">TEMP5</tspan>
+		</text>
+	</g>
+	<g transform="matrix(0.66 0 0 0.66 558.51 493.56)" style="">
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-122.52" y="25.13">TEMP2</tspan>
+		</text>
+	</g>
+	<g transform="matrix(0.66 0 0 0.66 885.05 495.23)" style="">
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-120.4" y="25.13">TEMP3</tspan>
+		</text>
+	</g>
+	<g transform="matrix(0.66 0 0 0.66 233.51 735.34)" style="">
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-122" y="25.13">TEMP4</tspan>
+		</text>
+	</g>
+	<g transform="matrix(0.66 0 0 0.66 880.23 737.02)" style="">
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-121.88" y="25.13">TEMP6</tspan>
+		</text>
+	</g>
+	<g transform="matrix(10.21 0 0 0.25 540.14 695.89)">
+		<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(101,101,101); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-50, -50)" d="M 94.75 50 C 94.75 56.213 89.514 61.25 83.054 61.25 L 16.946 61.25 C 10.486 61.25 5.25 56.213 5.25 50 L 5.25 50 C 5.25 43.787 10.486 38.75 16.945999999999998 38.75 L 83.053 38.75 C 89.514 38.75 94.75 43.787 94.75 50 L 94.75 50 z" stroke-linecap="round" />
+	</g>
+	<g transform="matrix(0.11 0 0 0.11 230.03 566.15)" id="cb0b610b-b9cc-4523-bcb7-e17d505edcd4">
+		<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" href="ICON1" x="-540" y="-359.5" width="1080" height="719"></image>
+	</g>
+	<g transform="matrix(0.11 0 0 0.11 540 559.6)" id="cb0b610b-b9cc-4523-bcb7-e17d505edcd4">
+		<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" href="ICON2" x="-540" y="-359.5" width="1080" height="719"></image>
+	</g>
+	<g transform="matrix(0.11 0 0 0.11 887.11 561.27)" id="cb0b610b-b9cc-4523-bcb7-e17d505edcd4">
+		<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" href="ICON3" x="-540" y="-359.5" width="1080" height="719"></image>
+	</g>
+	<g transform="matrix(0.11 0 0 0.11 540 820.99)" id="cb0b610b-b9cc-4523-bcb7-e17d505edcd4">
+		<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" href="ICON5" x="-540" y="-359.5" width="1080" height="719"></image>
+	</g>
+	<g transform="matrix(0.11 0 0 0.11 882.95 814.34)" id="cb0b610b-b9cc-4523-bcb7-e17d505edcd4">
+		<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" href="ICON6" x="-540" y="-359.5" width="1080" height="719"></image>
+	</g>
+	<g transform="matrix(0.11 0 0 0.11 235.38 816.01)" id="cb0b610b-b9cc-4523-bcb7-e17d505edcd4">
+		<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" href="ICON4" x="-540" y="-359.5" width="1080" height="719"></image>
+	</g>
+	<g transform="matrix(0.27 0 0 0.27 813.52 149.36)" id="cb0b610b-b9cc-4523-bcb7-e17d505edcd4">
+		<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" href="ICON0" x="-540" y="-359.5" width="1080" height="719"></image>
+	</g>
+</svg>
